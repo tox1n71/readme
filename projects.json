@@ -65,7 +65,7 @@
     {
         "id": 10,
         "name": "Разработка игры 'Уличные гонки' на платформе telegram mini apps",
-        "githubUrl": "https://github.com/tox1n71/game-selector", 
+        "githubUrl": "https://github.com/tox1n71/streetrace", 
         "taskTrackerUrl": "https://tox1n.atlassian.net/jira", 
         "teamMembers": [
             368791, 367629, 368938, 345132
